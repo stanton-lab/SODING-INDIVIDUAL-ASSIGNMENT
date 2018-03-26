@@ -1,1 +1,5 @@
 # SODING-INDIVIDUAL-ASSIGNMENT
+## USAGE
+```
+Finder.new(1000000).result
+```
